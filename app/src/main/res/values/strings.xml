@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">video</string>
+    <string name="connect">连接设备</string>
+    <string name="preview">预览</string>
+</resources>
